@@ -13,8 +13,7 @@
 
 </div>
 
-> **Note:** if the banner above shows broken, hard-refresh the page (Ctrl+Shift+R) — the render service needs a moment on first load.
-
+> 
 ---
 
 ### 👋 Who I Am
